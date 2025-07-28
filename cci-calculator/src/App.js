@@ -39,7 +39,7 @@ export default function App() {
     borderRadius: 2,
     boxShadow: 3,
     minWidth: 350,
-    marginTop: 8,
+    marginTop: 2,
   };
 
   return (
@@ -52,6 +52,7 @@ export default function App() {
           textAlign: "center",
           mb: 2,
           borderRadius: 2,
+          marginTop: 4,
         }}
       >
         <Typography variant="h4" fontWeight={600}>
